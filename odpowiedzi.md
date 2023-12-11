@@ -59,8 +59,8 @@ Trzeba udowodnić NP-zupełność, czyli należy pokazać, że problem należy d
 Oznacza to, że jeżeli jakikolwiek problem NP-zupełny (np. SAT) zostanie sprowadzony do klasy P to wszystkie inne też będą do tej klasy sprowadzone.
 ### 7. Klasa NC (klasa Nicka).
 - **dst: Definicja klasy NC.<br />**
-Klasa złożoności obliczeniowej Nicka, określana jako NC, to klasa problemów decyzyjnych, które mogą być rozwiązane równolegle w deterministycznym czasie wielomianowym.
+Klasa złożoności obliczeniowej Nicka, określana jako NC, to klasa problemów decyzyjnych, które mogą być rozwiązane równolegle w deterministycznym czasie wielomianowym. Polilogarytmiczny czas
 - **db: Czy P=NC?<br />**
-Pytanie, czy P=NC, jest nadal otwarte i jest jednym z fundamentalnych problemów w teorii złożoności obliczeniowej.
+Pytanie, czy P=NC, jest nadal otwarte i jest jednym z fundamentalnych problemów w teorii złożoności obliczeniowej. NC jest zawarta p P.
 - **bdb: Co daje praktycznie wiedza, że dany problem należy do NC?<br />**
-Problemy z klasy NC mają potencjał do efektywnego rozwiązywania na architekturach równoległych. To oznacza, że przy odpowiedniej architekturze sprzętowej można je przetwarzać równocześnie na wielu procesorach, co może znacznie przyspieszyć ich rozwiązanie.
+Problemy z klasy NC mają potencjał do efektywnego rozwiązywania na architekturach równoległych. To oznacza, że przy odpowiedniej architekturze sprzętowej można je przetwarzać równocześnie na wielu procesorach, co może znacznie przyspieszyć ich rozwiązanie. Przy przyzwoitej liczbie procesorów.
