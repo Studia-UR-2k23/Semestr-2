@@ -12,7 +12,7 @@ Pytanie, czy P = NP, jest jednym z najważniejszych nierozstrzygniętych problem
 NP ponieważ nie znamy rozwiązania w czasie wielomianowym
 ### 2. Klasa NP-zupełnych i NP trudnych.
 - **dst: Definicja klasy NP-zupełnych i klasy NP-trudnych?<br />**
-NP-zupełne - Są to problemy, które mają najwyższy poziom trudności wśród problemów w klasie NP. Dla każdego problemu NP-zupełnego istnieje możliwość sprowadzenia każdego innego problemu z klasy NP do niego w czasie wielomianowym. <br />
+NP-zupełne - Są to problemy, które mają najwyższy poziom trudności wśród problemów w klasie NP. Dla każdego problemu NP-zupełnego istnieje możliwość sprowadzenia każdego innego problemu z klasy NP do niego w czasie wielomianowym. **Są decyzyjne.** <br />
 NP-trudne - Niekoniecznie należą do klasy NP, ale ich trudność jest porównywalna lub większa niż trudność problemów w klasie NP. Dla problemów NP-trudnych nie jest wymagane, aby ich rozwiązania można było w czasie wielomianowym zweryfikować.
 - **db: Jaka jest różnica pomiędzy problemami z klas NP-zupełnych i NP-trudnych, czy klasa NP-zupełnych zawiera się w NP-trudnych, a klasa NP-trudnych zawiera się w NP-zupełnych?<br />**
 NP-trudne w przeciwieństwie do NP-zupełnych nie są weryfikowalne w czasie wielomianowym. Klasa NP-zupełnych zawiera się w NP-trudnych, lecz nie odwrotnie.
